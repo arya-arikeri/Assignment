@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog dsd lab/roundrobin/roundrobin.srcs/sources_1/new/rra.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rra
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog dsd lab/roundrobin/roundrobin.srcs/sim_1/new/rra_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rra_tb
